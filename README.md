@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Umesh
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me - drop an email workforumesh@gmail.com
